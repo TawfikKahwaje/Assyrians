@@ -1,0 +1,14 @@
+{
+  "name": "assyrians",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "author": "Assyrian team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.5"
+  }
+}
