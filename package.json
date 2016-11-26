@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "postinstall":"npm install -g bower && bower install",
     "start": "nodemon server/server.js"
   },
   "author": "Assyrian team",
